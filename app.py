@@ -1,1 +1,2 @@
-print('Hey Ahmed')
+Hey Ahmed!
+All the best!
